@@ -16,10 +16,9 @@ Results by city type:
 
 
 # Total Fare by city type chart between January & April of 2019
+![PyBer_fare_summary](https://user-images.githubusercontent.com/118234986/211421445-cb4bcfed-3343-4521-93b3-4675f57d6c30.png)
 
 
 Summary
 
 From our data we are able to tell what kind of fares will be commanded based on what city type the passenger is getting a ride in.  we can conclude that a rural area will command a higher fare because there are fewer workers that will come to this area, the travel time and distance is most likely longer making the average fare per ride & driver the most out of all city types.
-
-https://github.com/arash-yousefi/PyBer_Analysis/blob/main/analysis/Fig7.png
